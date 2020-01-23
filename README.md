@@ -5,4 +5,5 @@
 ## Future Improvements
 - Better folder/directory structure;
 - More descriptive and accurate error logging;
+- Improve UI design around table of results;
 - Make the "Forgot Password?" feature work;
