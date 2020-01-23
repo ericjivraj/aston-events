@@ -1,0 +1,192 @@
+/* Start H1 */
+h1 {
+	margin:0;
+	padding:38px 0 36px 32px;
+	color:#1E90FF;
+	font:bold 50px/1.2em Arial, Helvetica, sans-serif;
+	text-transform:uppercase;
+	letter-spacing:-3px;
+	text-align: center;
+}
+h1 a, h1 a:hover {
+	color:#000000;
+	text-decoration:none;
+}
+h1 span {
+	font-weight:bold;
+	color:#1E90FF;
+}
+h1 small {
+	font:normal 20px/1.2em Arial, Helvetica, sans-serif;
+	color:#000000;
+	letter-spacing:normal;
+}
+/* End of H1 */
+
+/* Start of MENU */
+.menu
+{
+	font:bold 20px/1.2 Arial, Helvetica, sans-serif;
+}
+
+form
+{
+	font:bold 12px/1.2 Arial, Helvetica, sans-serif;
+}
+
+ul
+{
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+	top:0;
+	overflow:hidden;
+	width: 100%;
+	background-color:#1E90FF;
+}
+
+li {
+	float: left;
+}
+
+li a
+{
+	display:block;
+	color:white;
+	padding:14px 29px;
+	text-align: center;
+	font-size: 17px;
+	text-decoration:none;
+/*	border-right:1px solid #000000;*/
+}
+
+li a:hover
+{
+	background-color: #000000;
+    color:white;
+}
+
+.active {
+    background-color: #000000;
+}
+/* END OF Navigation Bar */
+
+/* Start of Dropdown */
+
+/* End of Dropdown */
+
+#join-up-message h2 {
+  padding-top: 150px;
+	color: #FFFFFF;
+
+}
+
+#join-up-message p {
+	color: #FFFFFF;
+}
+
+#join-up-message {
+	background-image: url("../images/aston3.jpg");
+	background-position: bottom left;
+	height: 800px:
+	width: 1000px;
+
+}
+
+#benefit h2 {
+	text-align: center;
+}
+
+.events {
+  text-align: center;
+	padding-top: 60px;
+}
+
+.event i {
+  font-size: 36px;
+	padding-top: 40px;
+	color: #1E90FF;
+}
+.event p {
+  text-align: justify;
+	padding-bottom: 100px;
+}
+
+.btn-primary {
+	font-size: 20px;
+}
+
+.become-organiser {
+	padding-top: 200px;
+	text-align: center;
+	align-items: center;
+}
+
+.become {
+	padding-bottom: 100px;
+}
+
+.become i {
+	color: #1E90FF;
+}
+
+#events-message {
+	padding-top: 150px;
+	background-image: url("../images/aston3.jpg");
+	background-position: bottom left;
+}
+
+pre {
+	font-size: 14px;
+}
+
+.footer {
+	padding:0;
+	margin:10px auto;
+	display: block;
+	color: #FFFFFF;
+}
+.footer p {
+	margin:0;
+	padding:4px 0;
+	line-height:normal;
+	color:#fff;
+}
+.footer a {
+	color:#fff;
+	padding:inherit;
+	text-decoration:underline;
+}
+.footer a:hover {
+	text-decoration:none;
+}
+.footer .lf {
+	float:left;
+}
+.footer .rf {
+	float:right;
+}
+
+form {
+	font-size: 16px;
+}
+
+#form-contact {
+	padding-left: 20px;
+}
+
+.contact h2 {
+	padding-left: 20px;
+}
+
+body {
+	padding-bottom:100px;
+}
+
+table, th, td {
+   border: 1px solid black;
+	 position: relative;
+	 margin-left: auto;
+	 margin-right: auto;
+
+}
