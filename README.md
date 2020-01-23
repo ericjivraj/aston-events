@@ -1,2 +1,8 @@
-# aston-events
- Web application designed to promote aston events
+# Aston Events
+ Web application designed to promote aston events. This was developed as a coursework during my 2nd year of university for the module: Internet Applications and Techniques.
+
+
+## Future Improvements
+- Better folder/directory structure;
+- More descriptive and accurate error logging;
+- Make the "Forgot Password?" feature work;
